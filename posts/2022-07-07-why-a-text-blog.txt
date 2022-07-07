@@ -1,0 +1,73 @@
+--------------------------------------------------------------------------------
+This is a blog post from wackomenace, the blog of Ruben Arakelyan.
+--------------------------------------------------------------------------------
+
+Why a text blog?
+================
+
+For longer than I can remember, I have been interested in vintage technology.
+Some might call it obsolete, outdated or just plain old-fashioned, but I see it
+as something interesting, a hark back to the "good old days" of computing and a
+reminder of how I used to experience the new world of computers and the
+Internet.
+
+As with everyone else during the late 2000s, I tended towards upgrades -
+faster computers, more resources, larger websites with more features and a
+sense of leaving the old world behind and moving to the 21st century. Maybe it
+was the prevailing thought at the time, or the fact I was in my teens and 20s
+when most people decide that everything done by adults older than them are
+basic, convoluted and unnecessary.
+
+Recently, however, I have been thinking more about what the world was like when
+I was somewhat younger, and how I experienced it. Yes, we had dialup at home,
+only allowed for a short period every evening. Yes, we used MSN Messenger to
+keep in touch with friends from school. Yes, we visited websites on GeoCities,
+downloading freeware (and sometimes warez). Yes, we even sometimes visited
+newsgroups (already considered old at the time). Yes, it was limiting, and
+our eyes were always on the future (imagine the excitement when we first got
+broadband), but it was also exciting and freeing in its own way. Adverts
+and tracking were much less than now, social networking was in its infancy
+and everything wasn't a subscription service.
+
+To someone in their teens or 20s today, all of that may sound horribly
+old-fashioned, an "oldie" yearning for a simpler life without today's modern
+distractions. To an extent, that may even be true - things were for the most
+part simpler, more basic and easier to understand and use in the past than they
+are now.
+
+This is not to say that I'm some sort of technophobe, scared of merely looking
+the wrong way at a smartphone lest it burst into flames. I still have all the
+trappings of a modern life, whether that be a mobile phone, tablet, laptop or
+cloud accounts with multiple providers of various services. I still find the
+progress of technology fascinating and I want to keep up-to-date with it. For
+every useless new technology, there is something else that is making a material
+difference for the better to peoples' lives.
+
+The part I dislike is the new technology that doesn't add anything demonstrably
+better, or that is used in ways that do not add anything useful. New technology
+that is inherently wasteful, duplicative or adopted just because it is new.
+For years, I have been part of the problem, adopting these technologies
+willingly and enthusiastically to stay ahead of the game and not thinking too
+much about the longer-term consequences.
+
+But as I have been reading more and more websites, blog posts and essays, they
+all point towards the same, grim reality - a lot of this new technology, whether
+it be hardware or software, doesn't add anything genuinely groundbreaking.
+Instead, it merely makes incremental improvements at most, most of which we can
+do without, and it does this while creating a sense of obsolescence and want
+which feeds the circus of upgrades, which itself results in waste of an
+unimaginable scale, most of it totally preventable.
+
+As new devices arrive, software is of course developed that uses more and more
+resources - resources that are available on these new devices but not on older
+ones, adding even more fuel to the junk fire of old tech.
+
+All this is a roundabout way of saying that while I can't control what happens
+in the rest of the world, I am at least in control of my little area of the web
+here. So the least I can do is to make sure I don't add to these issues by
+creating something that requires the lowest of resources without the flash and
+bang of something new.
+
+Hence this text-based blog. Just plain text files, nothing more. Readable
+anywhere by anything. Lightweight. Puts the words front and centre. What more
+could one ask for?
